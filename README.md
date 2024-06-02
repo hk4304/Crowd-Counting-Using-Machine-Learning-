@@ -19,7 +19,7 @@ The ShanghaiTech Crowd Counting Dataset consists of two parts:
 - **Part A**: Images with a high density of people.
 - **Part B**: Images with a lower density of people.
 
-The dataset can be downloaded from the [official website](http://www.crowdcounting.com/). Ensure to extract the dataset into a directory that you can access in your environment.
+The dataset can be downloaded from the [kaggle website]([http://www.crowdcounting.com](https://www.kaggle.com/datasets/tthien/shanghaitech)/). Ensure to extract the dataset into a directory that you can access in your environment.
 
 ## Installation
 To run the code in this repository, you need to have Python installed along with the following libraries:
